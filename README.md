@@ -21,9 +21,13 @@ I build production backends and AI-powered systems: REST APIs, cloud infrastruct
 - Optimized a real-time STT → LLM → TTS voice pipeline to ~200–300 ms end-to-end latency
 - Fine-tuned a Hindi TTS model with LoRA and shipped it to production
 
-## Featured project
+## Featured projects
 
-**[cloudlens-ai](https://github.com/shivansh-mishra-dev/cloudlens-ai)**: an agentic AI assistant that queries and audits AWS infrastructure through natural language.
+| Project | What it is | Stack |
+|---|---|---|
+| **[CloudLens AI](https://github.com/shivansh-mishra-dev/cloudlens-ai)** | Ask AWS questions in plain English. A LangGraph agent writes read-only SQL over live infrastructure, with a guardrail, a SQL firewall and self-correction. | LangGraph · Steampipe · Ollama · FastAPI SSE · Redis · React |
+| **[DentalSched](https://github.com/shivansh-mishra-dev/backtracking)** | Appointment scheduling as a constraint-satisfaction problem: brute force vs backtracking vs forward checking + MRV, with a Gantt timeline and visualizer. | Python · FastAPI · SQLAlchemy · React · TypeScript |
+| **[Churn Prediction](https://github.com/shivansh-mishra-dev/data-analytics-project)** | Telecom churn model reaching 0.84 ROC-AUC, catching 3 in 4 churners, with every modelling decision documented. | scikit-learn · pandas |
 
 ## Connect
 
