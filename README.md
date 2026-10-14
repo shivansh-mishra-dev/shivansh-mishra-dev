@@ -1,9 +1,31 @@
--  Hi, I’m @Shivanshm001
--  I’m interested in web development.
--  I’m currently learning Web development and C.
--  I’m looking to collaborate on making websites for free for experience and learning.
--  Reach me at shivanshmishra.web@gmail.com
-<!---
-Shivanshm001/Shivanshm001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Shivansh Mishra 👋
+
+**Backend Engineer** · Node.js · TypeScript · Python · FastAPI · AWS · LLM Integration
+📍 Chandigarh, India
+
+I build production backends and AI-powered systems: REST APIs, cloud infrastructure, LLM pipelines, and real-time voice AI. ~2 years of production experience.
+
+## What I work on
+
+- **Backend & APIs:** Node.js, Express, TypeScript, Python/FastAPI, REST, WebSockets, SSE streaming
+- **LLM & AI systems:** AWS Bedrock, LangChain, LangGraph, RAG, multi-agent orchestration, output guardrails, self-hosted models (Gemma3, Qwen3), LoRA fine-tuning
+- **Cloud & DevOps:** AWS (ECS, ECR, S3, API Gateway, Cognito), GCP, Docker, GitHub Actions, CI/CD, on-prem deployments
+- **Data:** PostgreSQL, MySQL/MariaDB, MongoDB, Redis
+- **Automation:** n8n, Power Automate
+
+## Highlights
+
+- Migrated 100+ REST APIs from serverless to an Express + TypeScript monolith in 50 days, cutting infra cost by ~40%
+- Added ~900 custom compliance checks covering 325 FedRAMP Rev. 5 controls, raising automated coverage by ~60%
+- Cut API response times by ~65% with Redis caching
+- Optimized a real-time STT → LLM → TTS voice pipeline to ~200–300 ms end-to-end latency
+- Fine-tuned a Hindi TTS model with LoRA and shipped it to production
+
+## Featured project
+
+**[cloudlens-ai](https://github.com/shivansh-mishra-dev/cloudlens-ai)**: an agentic AI assistant that queries and audits AWS infrastructure through natural language.
+
+## Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/shivansh-mishra-dev)
+- 📧 shivanshmishra.web@gmail.com
